@@ -1,7 +1,6 @@
 export default function LandingPage(){ 
     return(
         <div>
-        <link rel="stylesheet" href="style.css"></link>
         <div class="main-container">
         
         <canvas id="soundwaveCanvas"></canvas>
